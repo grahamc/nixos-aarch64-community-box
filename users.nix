@@ -287,6 +287,11 @@ let
       keys = ./keys/t184256;
     };
 
+    thequux = {
+      trusted = true;
+      keys = ./keys/thequux;
+    };
+
     timokau = {
       trusted = true;
       keys = ./keys/timokau;
