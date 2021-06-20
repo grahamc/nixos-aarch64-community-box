@@ -297,6 +297,11 @@ let
       keys = ./keys/tomberek;
     };
 
+    tomfitzhenry = {
+      trusted = true;
+      keys = ./keys/tomfitzhenry;
+    };
+
     vcunat = {
       trusted = true;
       keys = ./keys/vcunat;
