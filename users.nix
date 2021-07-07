@@ -326,6 +326,11 @@ let
       trusted = true;
       keys = ./keys/yegortimoshenko;
     };
+
+    zaninime = {
+      trusted = true;
+      keys = ./keys/zaninime;
+    };
   };
 
   ifAttr = key: default: result: opts:
