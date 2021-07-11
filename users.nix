@@ -147,6 +147,11 @@ let
       trusted = true;
       keys = ./keys/expipiplus1;
     };
+    
+    gaelan = {
+      trusted = true;
+      keys = ./keys/gaelan;
+    };
 
     globin = {
       trusted = true;
